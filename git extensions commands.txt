@@ -1,0 +1,5 @@
+---cloning
+"C:\Program Files\Git\bin\git.exe" clone -v --recurse-submodules --progress "https://github.com/sanketkkeni/Upload_Veracrypt_vault_to_google_drive.git" "C:/_src/Upload_Veracrypt_vault_to_google_drive"
+
+
+
